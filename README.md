@@ -1,5 +1,5 @@
 <!-- ![Cloud-Note Banner](./images/banner.png) -->
-<img src="./images/banner.png" alt="Cloud-Note Banner" width="500">
+<img src="./images/banner.png" alt="Cloud-Note Banner" width="10000">
 
 ## Hey 👋, I'm Hammad! 
 React JS Developer🚀 | Java Desktop Developer 💻 | Level 2 Freelancer @Fiverr | CS'25  
