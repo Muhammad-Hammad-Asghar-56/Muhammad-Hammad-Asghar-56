@@ -53,8 +53,7 @@ through successful freelance and internship experiences.
 
 
 </td><td valign="center" width="30%">
-
-
+<img src="https://github.com/Muhammad-Hammad-Asghar-56/Muhammad-Hammad-Asghar-56/blob/master/images/Level%201%20Seller.png"/>
 </td></tr></table>  
 
 <br/>  
